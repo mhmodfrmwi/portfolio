@@ -43,7 +43,7 @@ Feel free to explore and engage with the interactive elements. Don't forget to t
 
 ---
 
-For a live preview, visit [Mahmoud Elframawi Portfolio](www.linkedin.com/in/mahmoud-elframawi-94a410271)
+For a live preview, visit [Mahmoud Elframawi Portfolio] https://mhmodfrmwi.github.io/portfolio/
 
 ![screencapture-127-0-0-1-5500-index-html-2024-01-24-19_20_18](https://github.com/mhmodfrmwi/portfolio/assets/151141036/9c40f3c3-48c6-49de-93de-047b62ca64b1)
 
