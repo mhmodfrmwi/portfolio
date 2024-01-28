@@ -42,8 +42,8 @@ Welcome to my portfolio! This project is a representation of my journey as a pas
 Feel free to explore and engage with the interactive elements. Don't forget to toggle between light and dark themes to choose the one that suits your preference!
 
 ---
-
-For a live preview, visit [Mahmoud Elframawi Portfolio] https://mhmodfrmwi.github.io/portfolio/
+## live version
+https://portfolio-pi-neon-79.vercel.app/
 
 ![screencapture-127-0-0-1-5500-index-html-2024-01-24-19_20_18](https://github.com/mhmodfrmwi/portfolio/assets/151141036/9c40f3c3-48c6-49de-93de-047b62ca64b1)
 
